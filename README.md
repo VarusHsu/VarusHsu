@@ -1,7 +1,7 @@
 # Hi, I'm Varus Hsu. A Golang programmer, and welcome to here! 😀
 
 >[!note]
->Ops. A thinker, rather than programmer! 😅
+>Ops. A inventor, rather than programmer! 😅
 
 First, there are several active records in open source communities that I take pride in.
 
