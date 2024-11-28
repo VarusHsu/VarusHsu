@@ -1,4 +1,4 @@
-# Hi, I'm Varus Hsu. A Golang programmer, and welcome to here! 😀
+# Hi, I'm Varus Hsu. A Golang programmer, and welcome! 😀
 
 >[!note]
 >Ops. A inventor, rather than programmer! 😅
