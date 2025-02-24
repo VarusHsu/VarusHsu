@@ -1,23 +1,12 @@
-# Hi, I'm Varus Hsu. A Golang programmer, and welcome! 😀
+# Hey, there! I'm Varue Hsu. A Golang programmer.😄
 
 >[!note]
 >Ops. A inventor, rather than programmer! 😅
 
-First, there are several active records in open source communities that I take pride in.
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,c,cpp,docker,git,js,postgres,prometheus,redis,rust,ts,vue,mysql,aws" />
+  </a>
+</p>
 
-- <https://github.com/gin-contrib/i18n/pull/40>
-- <https://github.com/gin-gonic/gin/issues/3739>
-- <https://github.com/gin-gonic/gin/issues/3718>
-- <https://github.com/go-gorm/gorm/issues/7002>
-
-Second, there is an Excel creation tool based on an idea of mine.
-
-<a href=https://github.com/VarusHsu/excelorm>VarusHsu/excelorm</a>
-
-Now, I am learning about the following technologies:
-
-- Rust
-- Vue
-- Postgres
-
-Finally, nice to meet you.
+I'm honored to meet you!
